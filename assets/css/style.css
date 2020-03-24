@@ -32,3 +32,15 @@ h1 {
     height: 60px;
     background-color: rgb(7, 215, 215);
 }
+
+.past {
+background-color: grey;
+}
+
+.present {
+    background-color: red;
+}
+ .future {
+    background-color: greenyellow;
+ }
+
